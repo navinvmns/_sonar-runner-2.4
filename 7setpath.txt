@@ -1,0 +1,5 @@
+set JAVA_HOME=C:\Broadridge\AccessData\Softwares\Java 7\jdk1.7.0_55
+
+set jpda_address=9083
+
+set PATH=%PATH%;%JAVA_HOME%\bin;
