@@ -1,0 +1,1 @@
+# _sonar-runner-2.4
